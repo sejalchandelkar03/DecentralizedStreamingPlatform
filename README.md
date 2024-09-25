@@ -1,5 +1,7 @@
 ##### Deployed smartcontract address: CAD2GNF3AJAOOJDNQIWZRCX6NFLABUP7V5BMROL43GLLJLOP6CALBTXJ
 
+![image.png](image.png)
+
 # Decentralized Streaming Platform
 
 ## Project Title
